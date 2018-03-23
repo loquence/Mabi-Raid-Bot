@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfRaidTimer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RaidTimer>
+    <name>Red Dragon</name>
+    <time>
+      <XmlTimeSpan>PT23H45M</XmlTimeSpan>
+      <XmlTimeSpan>PT19H45M</XmlTimeSpan>
+    </time>
+  </RaidTimer>
+</ArrayOfRaidTimer>
